@@ -1,9 +1,5 @@
-# techtonic-apprenticeship-initial-pre-work
-
-## Which freeCodeCamp lessons were most difficult for you and why? Please be as in-depth as possible. There is no limit to the number of responses or lessons mentioned. We have provided you with the template below and expect you to format any additional entries in the same way, so simply copy and paste the following three lines for each lesson you struggled with, chnage the subject title and the lesson title, and fill out your answers under the lessons you struggled with below:
-
-### Introduction to Basic HTML and HTML5
+### Applied Visual Design
 
 **Say Hello to HTML Elements**
 
-- Your answer goes here if you struggled with this lesson
+- I am wondering why one would need multiple box-shadows separated by commas for a particular element as opposed to using just one box-shadow property and perhaps simplifying the code?
