@@ -1,5 +1,5 @@
-### ES6
+### Basic JavaScript
 
-** Use Destructuring Assignment to Extract Values from Objects **
+** Replace Loops using Recursion **
 
-- Is the key to setting up a destructuring assignment having either curly braces or square brackets on the left side of the equation?
+- I don't understand how they came up with this in the example: multiply(arr, n) == multiply(arr, n - 1) \* arr[n - 1]
