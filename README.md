@@ -1,5 +1,5 @@
 ### Basic JavaScript
 
-** Selecting from Many Options with Switch Statements **
+** Replace Loops using Recursion **
 
-- I had trouble at first with the challenge because I thought the solution was supposed to match the example that contained the console.log() function. What are some real-world scenarios in which a switch statment would be necessary?
+- How did they get to this logic? multiply(arr, n) == multiply(arr, n - 1) \* arr[n - 1]
