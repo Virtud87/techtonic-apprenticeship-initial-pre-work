@@ -1,5 +1,5 @@
-### Basic JavaScript
+### ES6
 
-** Replace Loops using Recursion **
+** Use the Spread Operator to Evaluate Arrays In-Place **
 
-- How did they get to this logic? multiply(arr, n) == multiply(arr, n - 1) \* arr[n - 1]
+- Are the spread operator and the rest operator the same operator just being used differently?
