@@ -12,14 +12,15 @@ html {
 
 body {
   font-family: "Mulish", sans-serif;
-  font-size: 2.4rem;
+  font-size: 2rem;
   line-height: 1.5;
   color: var(--color-secondary);
 }
 
 h1,
 h2 {
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
+  text-align: center;
 }
 
 h1 {
@@ -28,11 +29,11 @@ h1 {
 
 h2 {
   font-size: 4rem;
-  margin-bottom: 2rem;
 }
 
 p {
   margin-top: 0;
+  padding: 1rem;
 }
 
 /* Links */
@@ -74,4 +75,18 @@ a {
   border: 0;
   border-radius: 40px;
   cursor: pointer;
+}
+
+/* Cards */
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1rem;
+  border: 1px solid lightgray;
+  border-radius: 15px;
+}
+
+.image {
+  width: 25vw;
 }
